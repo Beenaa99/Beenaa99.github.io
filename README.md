@@ -45,26 +45,26 @@
 ## Projects
 
 ### Semantic Segmentation for Self-Driving Cars
-**Keras, TensorFlow, CARLA, Matplotlib, NumPy**
--  Analyzed and preprocessed the Lyft Udacity Challenge dataset for semantic segmentation.
-- Trained and tuned LaneNet to achieve a 95% test accuracy in lane detection, surpassing baseline models by 10%.
-- Tested the model in the CARLA simulation, assessing real-world scenario adaptability.ous driving simulator, demonstrating its robustness and adaptability to real-world scenarios.
+- **Keras, TensorFlow, CARLA, Matplotlib, NumPy**
+	- Analyzed and preprocessed the Lyft Udacity Challenge dataset for semantic segmentation.
+	- Trained and tuned LaneNet to achieve a 95% test accuracy in lane detection, surpassing baseline models by 10%.
+	- Tested the model in the CARLA simulation, assessing real-world scenario adaptability.ous driving simulator, demonstrating its robustness and adaptability to real-world scenarios.
 
 ### LLM Prompt Recovery
-**Python, Hugging Face, T5, BART, Mixtral, Mistral, LLaMA2, Gemma**
-- Developed a methodology to recover original prompts from LLM-rewritten texts, using zero-shot learning, few-shot learning, and fine-tuning transformer models.
-- Created a comprehensive dataset and evaluated model performance with Sharpened Cosine Similarity and ROUGE scores, yielding insights into effective prompting strategies.
+- **Python, Hugging Face, T5, BART, Mixtral, Mistral, LLaMA2, Gemma**
+	- Developed a methodology to recover original prompts from LLM-rewritten texts, using zero-shot learning, few-shot learning, and fine-tuning transformer models.
+	- Created a comprehensive dataset and evaluated model performance with Sharpened Cosine Similarity and ROUGE scores, yielding insights into effective prompting strategies.
 
 ### ETL Pipeline from Oracle Essbase to Google Cloud Platform
-**Bash, Apache NiFi, Python, BigQuery, Qlik, GCP**
-- Engineered an ETL pipeline using Apache NiFi and Bash for ingesting large datasets from Oracle Essbase into Google BigQuery. This process involved intricate data mapping, cleansing, and batch processing, resulting in a 35% reduction in processing time.
-- Developed and deployed custom Qlik visualization dashboards, catering to specific business requirements.
+- **Bash, Apache NiFi, Python, BigQuery, Qlik, GCP**
+	- Engineered an ETL pipeline using Apache NiFi and Bash for ingesting large datasets from Oracle Essbase into Google BigQuery. This process involved intricate data mapping, cleansing, and batch processing, resulting in a 35% reduction in processing time.
+	- Developed and deployed custom Qlik visualization dashboards, catering to specific business requirements.
 
 ### Financial Reporting System
-**Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI**
-- Developed a cloud-based sales reporting system leveraging Azure Data Lake for secure data storage, Azure Data Factory for efficient data orchestration, and Azure Synapse Analytics for robust batch processing of KPI and metrics.
-- Implemented Azure Synapse Analytics to perform complex data transformations and aggregations, enhancing the reliability of sales metrics. 
-- Enabled advanced data visualization and interactive reporting using Power BI Embedded.
+- **Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI**
+	- Developed a cloud-based sales reporting system leveraging Azure Data Lake for secure data storage, Azure Data Factory for efficient data orchestration, and Azure Synapse Analytics for robust batch processing of KPI and metrics.
+	- Implemented Azure Synapse Analytics to perform complex data transformations and aggregations, enhancing the reliability of sales metrics. 
+	- Enabled advanced data visualization and interactive reporting using Power BI Embedded.
 
 ## Publications
 - **Speech Emotion Recognition using Time Distributed CNN and LSTM** ITM Web of Conferences 40, 03006 (2021). [DOI: 10.1051/itmconf/20214003006](https://doi.org/10.1051/itmconf/20214003006)
